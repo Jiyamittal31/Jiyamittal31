@@ -16,15 +16,15 @@
 ---
 
 ## 📂 Highlighted Projects
-🔹 **[MCA + GitHub Scraper](#)**  
+🔹 **[MCA + GitHub Scraper](https://github.com/Jiyamittal31/Scrapper)**  
 *Python | BeautifulSoup | Pandas |*  
 - Scraped data from MCA & GitHub, cleaned, and visualized business & developer insights.  
 
-🔹 **[AI Chatbot in Python](#)**  
+🔹 **[AI Chatbot in Python]()**  
 *Python | NLTK | NLP*  
 - Built a rule-based chatbot that responds to user queries interactively.  
 
-🔹 **[Excel & Power BI Dashboard](#)**  
+🔹 **[Excel & Power BI Dashboard]()**  
 *Excel | Power BI*  
 - Created an interactive sales & HR dashboard with KPIs and data insights.  
 
